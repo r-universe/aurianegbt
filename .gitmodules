@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "LSAMBA"]
+	path = LSAMBA
+	url = https://github.com/aurianegbt/lsamba
+[submodule "REMixed"]
+	path = REMixed
+	url = https://github.com/aurianegbt/remixed
